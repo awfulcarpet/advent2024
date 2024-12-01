@@ -1,3 +1,5 @@
 day*/input
 day*/*.o
 day*/day?
+day*/core
+session
